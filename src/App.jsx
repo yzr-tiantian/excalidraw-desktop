@@ -46,6 +46,7 @@ function App() {
             appState: appState,
             elements: elements,
           }}
+          langCode="zh-CN"
        />
       ) : (
         <div className="loading">
